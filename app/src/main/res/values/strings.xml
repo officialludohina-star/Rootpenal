@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RootPanel</string>
+    <string name="mod_menu">Mod Menu</string>
+    <string name="aim_assist">Aim Assist</string>
+    <string name="silent_aim">Silent Aim</string>
+    <string name="auto_aim">Auto Aim</string>
+    <string name="esp_box">ESP Box</string>
+    <string name="esp_line">ESP Line</string>
+    <string name="esp_name">ESP Name</string>
+    <string name="esp_health">ESP Health</string>
+    <string name="esp_distance">ESP Distance</string>
+    <string name="headshot_only">Headshot Only</string>
+    <string name="smooth">Smooth</string>
+    <string name="fov">FOV</string>
+    <string name="launch_ff">Launch Free Fire</string>
+</resources>
